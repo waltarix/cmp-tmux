@@ -7,4 +7,4 @@
 
 local Source = require('cmp_tmux.source')
 
-return Source.new()
+return Source:new()
